@@ -7,5 +7,6 @@ If available, files for automatic linting are provided, which should be used to 
 ## Languages
 
 - [C/C++](./c-cpp)
+- [Flutter/Dart](./flutter-dart)
 - [Python](./python)
 - [Rust](./rust)
