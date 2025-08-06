@@ -8,5 +8,6 @@ If available, files for automatic linting are provided, which should be used to 
 
 - [C/C++](./c-cpp)
 - [Flutter/Dart](./flutter-dart)
+- [JavaScript/TypeScript](./javascript-typescript)
 - [Python](./python)
 - [Rust](./rust)
